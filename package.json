@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/tasoskakour/CoolProject/issues"
   },
-  "homepage": "https://github.com/tasoskakour/CoolProject#readme"
+  "homepage": "https://github.com/tasoskakour/CoolProject#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
